@@ -1,0 +1,15 @@
+name = "ex_jsonfortran"
+version = "0.1.0"
+license = "MIT"
+author = "Tomohiro Degawa"
+copyright = "Copyright 2021, Tomohiro Degawa"
+description = "Examples of JSON-Fortran"
+
+[build]
+auto-executables = true
+
+[install]
+library = false
+
+[dependencies]
+json-fortran = {git="https://github.com/jacobwilliams/json-fortran"}
