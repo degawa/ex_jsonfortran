@@ -1,0 +1,16 @@
+{
+    "value": {
+        "integer": 1,
+        "real": {
+            "standard notation": 1.0,
+            "exponential notation": 1e-4
+        },
+        "string": "str",
+        "logical": "true"
+    },
+    "array": {
+        "integer": [10, 9, 8, 7],
+        "real": [6.0, 5.0, 4.0],
+        "string": ["3", "2", "1", "-1"]
+    }
+}
